@@ -1,0 +1,5 @@
+/Users/valdo/Dev/Estudos/ecommerce/common-kafka/src/main/java/br/com/zup/ecommerce/KafkaDispatcher.java
+/Users/valdo/Dev/Estudos/ecommerce/common-kafka/src/main/java/br/com/zup/ecommerce/ConsumerFunction.java
+/Users/valdo/Dev/Estudos/ecommerce/common-kafka/src/main/java/br/com/zup/ecommerce/GsonSerializer.java
+/Users/valdo/Dev/Estudos/ecommerce/common-kafka/src/main/java/br/com/zup/ecommerce/GsonDeserializer.java
+/Users/valdo/Dev/Estudos/ecommerce/common-kafka/src/main/java/br/com/zup/ecommerce/KafkaService.java
